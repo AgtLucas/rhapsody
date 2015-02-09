@@ -1,0 +1,19 @@
+{
+  "name": "rhapsody",
+  "version": "1.0.0",
+  "description": "Playing with Susy Sass",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgtLucas/rhapsody.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/rhapsody/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/rhapsody"
+}
