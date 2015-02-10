@@ -7,4 +7,5 @@ body {
 main {
   width: span(4);
   margin-left: span(2) + gutter();
+  margin-right: gutter();
 }
